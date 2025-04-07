@@ -2,6 +2,14 @@
 
 A web application that allows users to analyze GitHub profiles, view repositories, and visualize commit activity.
 
+## 🚀 Live Demo
+
+Check out the live deployment of this project:
+
+[![Deployed App](https://img.shields.io/badge/Deployed-Vercel-black?style=for-the-badge&logo=vercel)](https://github-profile-analyzer-one.vercel.app/)
+
+You can access the GitHub Profile Analyzer at [https://github-profile-analyzer-one.vercel.app/](https://github-profile-analyzer-one.vercel.app/)
+
 ## Features
 
 - Search for GitHub users by username
@@ -32,7 +40,7 @@ A web application that allows users to analyze GitHub profiles, view repositorie
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/github-profile-analyzer.git
+   git clone https://github.com/Himanshusharma2046/github-profile-analyzer.git
    cd github-profile-analyzer
    ```
 
